@@ -105,19 +105,19 @@ function FeaturedProjects() {
       title: "Targafy",
       description: "Employee goal tracking application with real-time updates and performance analytics.",
       tech: ["Flutter", "Firebase", "Riverpod"],
-      link: "https://play.google.com/store/apps/details?id=com.targafy"
+      link: "https://github.com/UMESH-042/Targafy-Frontend"
     },
     {
       title: "Leetcode Rating Predictor",
       description: "Node.js application for predicting Leetcode contest ratings using machine learning and web scraping.",
       tech: ["Node.js", "MongoDB", "Machine Learning"],
-      link: "https://github.com/UMESH-042/leetcode-predictor"
+      link: "https://github.com/UMESH-042/LeetCode-Rating-Predictor-main"
     },
     {
       title: "UdyogTrackr",
       description: "Business management solution with real-time analytics and inventory tracking capabilities.",
       tech: ["Flutter", "MySQL", "PHP"],
-      link: "https://github.com/UMESH-042/udyogtrackr"
+      link: "https://github.com/UMESH-042/UdyogTrackr"
     }
   ]
 
@@ -236,8 +236,8 @@ function Contact() {
     { icon: <FaGithub />, href: "https://github.com/UMESH-042", label: "GitHub" },
     { icon: <FaLinkedin />, href: "https://www.linkedin.com/in/umesh-chauhan-a1ab84220/", label: "LinkedIn" },
     { icon: <FaEnvelope />, href: "mailto:chauhanumesh7122003@gmail.com", label: "Email" },
-    { icon: <SiCodechef />, href: "https://www.codechef.com/users/umesh_042", label: "CodeChef" },
-    { icon: <SiCodeforces />, href: "https://codeforces.com/profile/umesh_042", label: "CodeForces" }
+    { icon: <SiCodechef />, href: "https://www.codechef.com/users/unbeatable_u7", label: "CodeChef" },
+    { icon: <SiCodeforces />, href: "https://codeforces.com/profile/Unbeatable_U", label: "CodeForces" }
   ]
 
   return (
